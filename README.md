@@ -22,7 +22,7 @@ A lightweight Q&A chatbot that runs open-source language models locally using [O
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sothulthorn/Q-A-Chatbot-with-Ollama.git
    cd Q&A-Chatbot-with-Ollama
    ```
 
